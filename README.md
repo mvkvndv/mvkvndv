@@ -14,8 +14,6 @@
 
 ## **スキル**
 
----
-
 - プログラミング言語
   - よく使用する言語: C, Python, Chisel
   - たまに使用する言語: C++, VerilogHDL, Java
@@ -31,9 +29,10 @@
   - DeepL
 
 --- 
+
 ## **経歴**
 
----
+
 ### **ETロボコン2022 東海地区大会** (2022.10.15)
 [ETロボコン2022 東海地区結果](https://www.etrobo.jp/%e6%9d%b1%e6%b5%b7%e5%9c%b0%e5%8c%ba%e5%a4%a7%e4%bc%9a%e7%b5%90%e6%9e%9c/)
 東海地区大会で競技順位5位でした.
@@ -44,6 +43,7 @@
 - [リポジトリ](https://github.com/andama777/speegle_dev)
 
 ---
+
 ### **enPiT-Pro (静岡大学主催の社会人向け組み込み技術講座) ティーチングアシスタント(TA)**
 [enPiT-Pro](https://hept.inf.shizuoka.ac.jp/enpit/)の講座アシスタントやってます(2022.3~)
 
